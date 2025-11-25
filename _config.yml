@@ -3,14 +3,14 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink: /:title/
 
 # Setup
-title:            Hyde
+title:            Science Chops
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme ...'
 url:              "https://spi.blue"   # Your main domain here
-baseurl:          "/page"              # This is the subdirectory where your site lives
+baseurl:          "/sc"              # This is the subdirectory where your site lives
 
 author:
   name:           'spiritual blues'
