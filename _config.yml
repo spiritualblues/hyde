@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            Hyde
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme ...'
+url:              "https://spi.blue"   # Your main domain here
+baseurl:          "/page"              # This is the subdirectory where your site lives
 
 author:
-  name:           'spiritual blues'     
-  url: "https://spi.blue"
-  baseurl: "/page"
+  name:           'spiritual blues'
+  url:            "https://spi.blue"
 
 paginate:         5
 
