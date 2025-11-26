@@ -8,13 +8,13 @@ permalink: /:title/
 # Setup
 title:            Science Chops
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme ...'
+description:      'by spiritual blues'
 url:              "https://spi.blue"   # Your main domain here
 baseurl:          "/blog"              # This is the subdirectory where your site lives
 
 author:
   name:           'spiritual blues'
-  url:            "https://spi.blue"
+  url:            "https://spi.blue/blog"
 
 paginate:         5
 
